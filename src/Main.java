@@ -5,7 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 	       Scanner scanner = new Scanner(System.in);
 
-	        System.out.print("Enter day of the week: ");
+	        System.out.print("Enter number: ");
 
 	        int day = scanner.nextInt();
 
